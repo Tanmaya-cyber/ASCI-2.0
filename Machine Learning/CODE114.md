@@ -21,6 +21,8 @@ Detecting facial emotion and visualization through website
 
 
 ## Weekly Report-
+### Week 1-
+Working on frontend and face detection
 
 
 ## TEAM MEMBERS -
