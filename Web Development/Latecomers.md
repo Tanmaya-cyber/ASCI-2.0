@@ -22,6 +22,6 @@ CSS
 
 
 ## TEAM MEMBERS - 
-Tanmaya Rout
-Asutosh Padhi
-Piush Praharaj
+1. Tanmaya Rout
+2. Asutosh Padhi
+3. Piush Praharaj
